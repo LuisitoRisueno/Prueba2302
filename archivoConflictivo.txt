@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflisto en el main
+=======
+conflisto
+>>>>>>> ahorita2
